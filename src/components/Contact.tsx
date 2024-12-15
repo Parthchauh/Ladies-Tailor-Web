@@ -20,7 +20,8 @@ const Contact = () => {
                 <Phone className="w-6 h-6 text-pink-600 mt-1" />
                 <div>
                   <h4 className="font-medium">Phone</h4>
-                  <p className="text-gray-600">+91 98765 43210</p>
+                  <p className="text-gray-600">+91 9909621912</p>
+                  <p className="text-gray-600">+91 6353103019</p>
                 </div>
               </div>
               
@@ -28,7 +29,7 @@ const Contact = () => {
                 <Mail className="w-6 h-6 text-pink-600 mt-1" />
                 <div>
                   <h4 className="font-medium">Email</h4>
-                  <p className="text-gray-600">info@bansidhartailors.com</p>
+                  <p className="text-gray-600">banshidhartailors@gmail.com</p>
                 </div>
               </div>
               
@@ -36,7 +37,7 @@ const Contact = () => {
                 <MapPin className="w-6 h-6 text-pink-600 mt-1" />
                 <div>
                   <h4 className="font-medium">Address</h4>
-                  <p className="text-gray-600">123 Fashion Street, Design District<br />Mumbai, Maharashtra 400001</p>
+                  <p className="text-gray-600">Shop number 2,Kant and Kant Building near Palika Garden<br />Anand 388120,Gujarat,India</p>
                 </div>
               </div>
               
@@ -44,7 +45,7 @@ const Contact = () => {
                 <Clock className="w-6 h-6 text-pink-600 mt-1" />
                 <div>
                   <h4 className="font-medium">Business Hours</h4>
-                  <p className="text-gray-600">Monday - Saturday: 10:00 AM - 8:00 PM<br />Sunday: Closed</p>
+                  <p className="text-gray-600">Monday - Saturday: 08:00 AM - 8:00 PM<br />Sunday: half day</p>
                 </div>
               </div>
             </div>
